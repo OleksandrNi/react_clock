@@ -1,2 +1,0 @@
-*{justify-content:center;display:flexbox}*,.Clock{align-items:center}.Clock{box-sizing:border-box;border:1px solid #000;display:flex;text-align:center;flex-direction:column;background-color:#0ff;width:480px}.Clock__title{color:#fff;font-size:36px}.Clock__button-show{width:150px;height:50px;background-color:red}.Clock__button-hide{width:150px;height:50px;background-color:#48e489}.Clock__button-name{width:150px;height:50px;background-color:bisque}.Clock__data-name{font-size:30px}.Clock__data-time{font-size:60px}
-/*# sourceMappingURL=main.b84bb4e0.chunk.css.map */
